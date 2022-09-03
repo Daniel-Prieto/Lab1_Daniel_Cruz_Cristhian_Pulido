@@ -10,7 +10,7 @@ Se busca diseñar una herramienta que cumpla con los siguientes requerimientos:
 * Sujeción rápida y segura al manipulador ABB IRB 140
 * Amortiguación en el eje z (paralelo a la punta del marcador) 
 *
-![Logo de Wikipedia](https://drive.google.com/file/d/1Dh5hirVFZzEuKOb00LqKiqJTVLqAx447/view?usp=sharing)
+![ImagenTool](https://github.com/Danacruzrui/desktop-tutorial/blob/fb0f5a1244fcd00d3a96492f0f93bdab110a26ba/Imagenes_readme/Tool3.jpg)
 
 
 
