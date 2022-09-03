@@ -12,5 +12,20 @@ Se busca diseñar una herramienta que cumpla con los siguientes requerimientos:
 *
 ![ImagenTool](https://github.com/Danacruzrui/desktop-tutorial/blob/fb0f5a1244fcd00d3a96492f0f93bdab110a26ba/Imagenes_readme/Tool3.jpg)
 
+## Diseño de Workbjetc
+
+##Robot Studio 
+
+### Creación de Herramienta 
+### Creación Workobject
+
+###CParametros de trayectoria 
+
+### Simulación 
+
+## Implementación 
+### Posición y orientación #1
+### Posición y orientación #2
+## Conclusiones y aspectos por mejorar 
 
 
