@@ -14,12 +14,13 @@ Se busca diseñar una herramienta que cumpla con los siguientes requerimientos:
 
 ## Diseño de Workbjetc
 
-##Robot Studio 
+## Robot Studio 
 
 ### Creación de Herramienta 
+
 ### Creación Workobject
 
-###CParametros de trayectoria 
+### Parametros de trayectoria 
 
 ### Simulación 
 
@@ -27,5 +28,7 @@ Se busca diseñar una herramienta que cumpla con los siguientes requerimientos:
 ### Posición y orientación #1
 ### Posición y orientación #2
 ## Conclusiones y aspectos por mejorar 
+ * Se identifican falencias en el diseño de la herramienta, puntualmente una falta de rigidez que limite el desplazamiento axial, esto genera movimientos indeseados e imprevistos al momento de seguir la trayectoria, lo cual genera un trazo discontinuo y poco preciso
+ * Se evidencia un trazo poco preciso incapaz de seguir los contornos agudos que componen el modelo original, este error esta asociado a la zona tolerable de errores
 
 
