@@ -29,6 +29,7 @@ La guia de laboratorio indica que el trazo debe corresponder a las iniciales de 
 ### Creación Workobject
 
 ### Parametros de trayectoria 
+`<Codigo RAPID>` : <https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/tree/main/RAPID_code>
 
 ### Simulación 
 En la simulación se puede evidenciar el correcto seguimiento de las trayectorias contenidas en el codigo RAPID, tambien se evidencian la variación de velocidades, la zona tolerable de error y la secuencia de rutinas definida. Se define y sigue el siguiente orden: 
