@@ -51,9 +51,13 @@ En la simulación se puede evidenciar el correcto seguimiento de las trayectoria
 ### Posición y orientación #1
 La primera posición del workobject corresponde al tablero ubicado de frente al robot, sin rotación relevante respecto a ningún plano, más que la inclinación previamente definida (30°), esta ubicación corresponde a la dispuesta en la simulación 
 ![Pose1](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/f8ca4447a73c111f65050b54a0a37405d846516a/Imagenes_readme/Pose1.jpeg)
+
+`<Video Posicición1>` : <https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/ec9f2f8ce23ed410e1c436336ab349276896aa0a/Multimedia/Pose_1.mp4>
 ### Posición y orientación #2
 La segunda ubicación sí contempla un desplazamiento en el eje x y z, una rotación negativa en el eje z y pequeñas inclinaciones que surgen a partir del desnivel entre la base de madera, por lo cual se torna necesario ubicar el workobject a partir de tres puntos, mediante el jogging del teach pendant, claramente esto se realiza de forma manual. 
 ![Pose2](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/f8ca4447a73c111f65050b54a0a37405d846516a/Imagenes_readme/Pose2.jpeg)
+
+`<Video Posicición2>` : <https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/ec9f2f8ce23ed410e1c436336ab349276896aa0a/Multimedia/Pose_2.mp4>
 ## Conclusiones y aspectos por mejorar 
  * Se identifican falencias en el diseño de la herramienta, puntualmente una falta de rigidez que limite el desplazamiento axial, esto genera movimientos indeseados e imprevistos al momento de seguir la trayectoria, lo cual genera un trazo discontinuo y poco preciso
  * Se evidencia un trazo poco preciso incapaz de seguir los contornos agudos que componen el modelo original, este error esta asociado a la zona tolerable de errores la cual fue definida como z10 y era preferible un valor menor
