@@ -25,9 +25,13 @@ La guia de laboratorio indica que el trazo debe corresponder a las iniciales de 
 ## Robot Studio 
 
 ### Creación de Herramienta 
+![ImagenToo0l1](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/cea559feb198d206bb8ef1b39a96bd3136c1d608/Imagenes_readme/toool1.jpeg)
+![ImagenToo0l2](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/46bf79606f6ea5c8d254098a4e06571418085aae/Imagenes_readme/Tool2.jpeg)
+
 
 ### Creación Workobject
 
+![ImagenToo00l3](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/46bf79606f6ea5c8d254098a4e06571418085aae/Imagenes_readme/Captura1.jpg)
 ### Parametros de trayectoria 
 `<Codigo RAPID>` : <https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/tree/main/RAPID_code>
 
