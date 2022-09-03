@@ -11,14 +11,14 @@ Se busca diseñar una herramienta que cumpla con los siguientes requerimientos:
 * Amortiguación en el eje z (paralelo a la punta del marcador) 
 * Elaboración rápida y economica 
 
-![ImagenTool1](https://github.com/Danacruzrui/desktop-tutorial/blob/fb0f5a1244fcd00d3a96492f0f93bdab110a26ba/Imagenes_readme/Tool1.jpg)
+![ImagenTool1](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/46bf79606f6ea5c8d254098a4e06571418085aae/Imagenes_readme/Tool1.jpeg)
 
 Para este diseño se propone utilizar el soporte clasico del papel higenico para baños, el cual integra un resorte que se contrae de forma longitudinal, resultando ideal para esta aplicación, se realizan loscortes para facilitar la inserción del marcador y se emplea una banda elastica pequeña para limitar el movimiento axial, por ultimo se realiza un agujero en su base que posibilite la adaptación del acople macho que está en el labSIR. 
 Una vez se tiene el modelo fisico se toman medidas y se crea un modelo CAD fiel a su morfologia. 
 
 
 ## Diseño de Workbjetc
-![ImagenWork1](https://github.com/Danacruzrui/desktop-tutorial/blob/fb0f5a1244fcd00d3a96492f0f93bdab110a26ba/Imagenes_readme/Workk1.jpg)
+![ImagenWork1](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/46bf79606f6ea5c8d254098a4e06571418085aae/Imagenes_readme/Workk1.jpeg)
 ## Robot Studio 
 
 ### Creación de Herramienta 
