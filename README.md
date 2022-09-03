@@ -44,7 +44,7 @@ En la simulación se puede evidenciar el correcto seguimiento de las trayectoria
 
 ![Simu1](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/f8ca4447a73c111f65050b54a0a37405d846516a/Imagenes_readme/Simu.jpeg)
 ![Simu2](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/f8ca4447a73c111f65050b54a0a37405d846516a/Imagenes_readme/Simu2.jpeg)
-
+`<Video Simulación>` : <https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/a8755f6be699630dc4f2cf25aef97d20747db276/Multimedia/Simulaci%C3%B3n_RobotStudio.mp4>
 
 ## Implementación 
 
