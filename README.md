@@ -25,6 +25,9 @@ La guia de laboratorio indica que el trazo debe corresponder a las iniciales de 
 ## Robot Studio 
 
 ### Creación de Herramienta 
+
+La creación de herramienta consiste en importar el modelo CAD para dar un referente de forma de la herramienta, no obstante lo más importante de la herramienta creada es la posición y orientación del TCP la cual definitivamente debe coincidir con la del modelo real.
+La definición se realiza a continuación:
 ![ImagenToo0l1](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/cea559feb198d206bb8ef1b39a96bd3136c1d608/Imagenes_readme/toool1.jpeg)
 ![ImagenToo0l2](https://github.com/Danacruzrui/Lab1_Daniel_Cruz_Cristhian_Pulido/blob/b5ccff679c9cce22522e27f6bca05ecd0d503002/Imagenes_readme/tool2.jpeg)
 
